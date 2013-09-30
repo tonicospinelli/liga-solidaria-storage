@@ -13,3 +13,5 @@
 config/config.ini
 public/uploads/*
 tests/_reports/*
+.htpasswd
+public/.htaccess
