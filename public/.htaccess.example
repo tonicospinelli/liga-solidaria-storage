@@ -1,0 +1,4 @@
+AuthName "Login"
+AuthType Basic
+AuthUserFile /var/www/liga-solidaria-storage/.htpasswd
+Require valid-user
